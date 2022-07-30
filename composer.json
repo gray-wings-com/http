@@ -1,0 +1,15 @@
+{
+    "name": "graywings/http",
+    "autoload": {
+        "psr-4": {
+            "Graywings\\Http\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tterashima",
+            "email": "taira.terashima@gmail.com"
+        }
+    ],
+    "require": {}
+}
